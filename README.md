@@ -1,4 +1,4 @@
-Project - Two Factor Authentication Through Morse Code Using Eye Blinks
+**Project - Two Factor Authentication Through Morse Code Using Eye Blinks**
 
 A succint definition of this project is - a security tool that could potentially avoid/stop keylogger attacks by harnessing Morse Code technology to override the singular keyboard communication for password systems.
 
